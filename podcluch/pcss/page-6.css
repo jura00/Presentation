@@ -1,0 +1,7 @@
+h2#imPgTitle {float: left; margin-left: 6px; margin-right: 6px; width: 904px;}
+#imCell_1 { display: block; position: relative; overflow: hidden; width: 910px; min-height: 2266px; border-top: 3px solid transparent; border-bottom: 3px solid transparent; border-left: 3px solid transparent; border-right: 3px solid transparent;}
+#imCellStyle_1 { position: relative; width: 904px; min-height: 2260px; padding: 3px 3px 3px 3px; text-align: center; border-top: 0; border-bottom: 0; border-left: 0; border-right: 0; z-index: 2;}
+#imCellStyleGraphics_1 { position: absolute; top: 0; bottom: 0; left: 0; right: 0; background-color: transparent;}
+#imObjectGallery_1 { display: block; width: 904px; text-align: left; }
+#imObjectGallery_1 a { float: left; margin: 0;  width: 224px; height: 224px; }
+#imContent #imObjectGallery_1 a:link, #imContent #imObjectGallery_1 a:hover, #imContent #imObjectGallery_1 a:visited, #imContent #imObjectGallery_1 a:active { border: none; background-color: transparent; text-decoration: none; }
