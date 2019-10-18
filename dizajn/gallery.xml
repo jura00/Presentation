@@ -1,0 +1,32 @@
+<gallery width="640" height="480">
+  <video>
+    <integrate>WebSiteX5</integrate>
+    <cpindex>10565901</cpindex>
+  </video>
+  <options>
+    <guicolor>0x000000</guicolor>
+    <background>transparent</background>
+    <font>Verdana</font>
+    <fontcolor>0xffffff</fontcolor>
+    <guialpha>1</guialpha>
+    <fontsize>8</fontsize>
+    <autoplay>false</autoplay>
+    <tposition>bottom</tposition>
+    <tsize>158</tsize>
+    <tnumber>4</tnumber>
+    <music />
+    <buttons>true</buttons>
+    <random>false</random>
+    <fullscreen>false</fullscreen>
+  </options>
+  <slides>
+    <slide url="gallery/1_7fmnv0xo.jpg" type="image" effect="" autoplay="5000" thumb="gallery/1_thumb_7fmnv0xo.png">
+    </slide>
+    <slide url="gallery/2_7fmnv0xo.jpg" type="image" effect="" autoplay="5000" thumb="gallery/2_thumb_7fmnv0xo.png">
+    </slide>
+    <slide url="gallery/3_7fmnv0xo.jpg" type="image" effect="" autoplay="5000" thumb="gallery/3_thumb_7fmnv0xo.png">
+    </slide>
+    <slide url="gallery/4_7fmnv0xo.jpg" type="image" effect="" autoplay="5000" thumb="gallery/4_thumb_7fmnv0xo.png">
+    </slide>
+  </slides>
+</gallery>
