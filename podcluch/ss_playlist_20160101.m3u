@@ -1,0 +1,35 @@
+#EXTM3U
+#EXTINF:0 channelId="171" , Da Vinci Learning
+http://fr.cdn.edem.tv/iptv/UN85HNM35WUFFM/537/index.m3u8
+#EXTINF:0 channelId="56" , National Geographic Channel
+http://fr.cdn.edem.tv/iptv/UN85HNM35WUFFM/134/index.m3u8
+#EXTINF:0 channelId="164" , Nat Geo Wild
+http://fr.cdn.edem.tv/iptv/UN85HNM35WUFFM/133/index.m3u8
+#EXTINF:0 channelId="58" , Discovery Science
+http://fr.cdn.edem.tv/iptv/UN85HNM35WUFFM/136/index.m3u8
+#EXTINF:0 channelId="57" , Discovery Channel
+http://fr.cdn.edem.tv/iptv/UN85HNM35WUFFM/140/index.m3u8
+#EXTINF:0 channelId="2839" , Discovery World
+http://fr.cdn.edem.tv/iptv/UN85HNM35WUFFM/135/index.m3u8
+#EXTINF:0 channelId="50" , Animal Planet
+http://fr.cdn.edem.tv/iptv/UN85HNM35WUFFM/137/index.m3u8
+#EXTINF:0 channelId="59" , Investigation Discovery
+http://fr.cdn.edem.tv/iptv/UN85HNM35WUFFM/139/index.m3u8
+#EXTINF:0 channelId="221" , Охота и Рыбалка
+http://fr.cdn.edem.tv/iptv/UN85HNM35WUFFM/159/index.m3u8
+#EXTINF:0 channelId="249" , Домашние Животные
+http://fr.cdn.edem.tv/iptv/UN85HNM35WUFFM/158/index.m3u8
+#EXTINF:0 channelId="887" , История
+http://fr.cdn.edem.tv/iptv/UN85HNM35WUFFM/111/index.m3u8
+#EXTINF:0 channelId="53" , Моя Планета
+http://fr.cdn.edem.tv/iptv/UN85HNM35WUFFM/117/index.m3u8
+#EXTINF:0 channelId="173" , Наука 2.0
+http://fr.cdn.edem.tv/iptv/UN85HNM35WUFFM/118/index.m3u8
+#EXTINF:0 channelId="175" , Совершенно секретно
+http://fr.cdn.edem.tv/iptv/UN85HNM35WUFFM/121/index.m3u8
+#EXTINF:0 channelId="209" , Эгоист ТВ
+http://fr.cdn.edem.tv/iptv/UN85HNM35WUFFM/526/index.m3u8
+#EXTINF:0 channelId="517" , Playboy
+http://fr.cdn.edem.tv/iptv/UN85HNM35WUFFM/527/index.m3u8
+#EXTINF:-1 channelId="276" , Русская Ночь
+http://fr.cdn.edem.tv/iptv/UN85HNM35WUFFM/147/index.m3u8
